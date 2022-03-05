@@ -12,9 +12,10 @@
 - 💬 Ask me about **PHP and VueJS**
 
 - 📫 How to reach me **eaindraag.myn@gmail.com**
--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eaindra-Aung)](https://github.com/anuraghazra/github-readme-stats)
 
 - ⚡ Fun fact **Trust me, it'll be fun to work with me.**
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eaindra-Aung&show_icons=true&theme=tokyonight)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
