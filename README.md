@@ -12,6 +12,7 @@
 - 💬 Ask me about **PHP and VueJS**
 
 - 📫 How to reach me **eaindraag.myn@gmail.com**
+-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eaindra-Aung)](https://github.com/anuraghazra/github-readme-stats)
 
 - ⚡ Fun fact **Trust me, it'll be fun to work with me.**
 
